@@ -1,0 +1,11 @@
+{
+  "name": "golan-forwarding",
+  "description": "Bla Bla.",
+  "dependencies": {
+    "express": "^4.9.0",
+    "jade": "^1.6.0",
+    "jquery": "^2.1.1",
+    "jsdom": "^0.11.1",
+    "stylus": "^0.48.1"
+  }
+}
